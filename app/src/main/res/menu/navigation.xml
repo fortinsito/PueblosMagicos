@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_notifications"
+        android:icon="@drawable/ic_relax_24dp"
+        android:title="@string/title_notifications" />
+
+    <item
+        android:id="@+id/navigation_social"
+        android:icon="@drawable/ic_social_24dp"
+        android:title="@string/title_social" />
+
+    <item
+        android:id="@+id/navigation_descubrir"
+        android:icon="@drawable/ic_descubre_24dp"
+        android:title="@string/title_descubrir" />
+
+    <item
+        android:id="@+id/navigation_add_visita"
+        android:icon="@drawable/ic_person_pin_24dp"
+        android:title="@string/title_add_visita" />
+
+    <item
+        android:id="@+id/navigation_perfil"
+        android:icon="@drawable/ic_nature_people_24dp"
+        android:title="@string/title_perfil" />
+
+</menu>
